@@ -50,3 +50,4 @@ export default tseslint.config({
 ```
 # Quiz-App
 # Quiz-App
+# QuizApp
